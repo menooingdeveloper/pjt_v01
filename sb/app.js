@@ -61,8 +61,8 @@ $scope._next_game2 = 0;
 , {id:57, tw:'57', d1:'10/4', game:'7PM 9PM', t1:'K Player',t2:'K Player',  dstr:'7:00 PM Brokebat Mountain K Players Field 7',dstr2:'9:00 PM North Dallas Beaver Hunters K Players Field 6'}
 , {id:58, tw:'58', d1:'10/11', game:'7PM 9PM', t1:'K Player',t2:'K Player',  dstr:'7:00 PM Mounders  K Players Field 6',dstr2:'9:00 PM K Players Tigons  Field 7'}
 , {id:53, tw:'59', d1:'10/18', game:'7PM 9PM', t1:'K Player',t2:'K Player',  dstr:'7:00 PM K Players Mounders  Field 6',dstr2:'9:00 PM Tigons  K Players Field 7'}
-, {id:55, tw:'60', d1:'10/25', game:'7PM 8PM', t1:'K Player',t2:'K Player',  dstr:'7:00 PM K Players Double S  Field 6',dstr2:'8:00 PM Double S  K Players Field 7 '}
 , {id:53, tw:'61', d1:'11/01', game:'7PM 9PM', t1:'K Player',t2:'K Player',  dstr:'7:00 PM K Players Mounders  Field 6',dstr2:'9:00 PM Tigons  K Players Field 7'}
+, {id:55, tw:'62', d1:'11/08', game:'7PM 8PM', t1:'K Player',t2:'K Player',  dstr:'7:00 PM K Players Double S  Field 6',dstr2:'8:00 PM Double S  K Players Field 7 '}
 
 
 , {id:13, tw:'99', d1:'TBD', game:'Practice', t1:'K Player',t2:'K Player',  dstr:'7:30PM - 8PM',dstr2:''}
